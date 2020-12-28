@@ -57,6 +57,7 @@ from scratch. Always love coding building awesome stuff!.
 - Setup IDS & create ways to secure data.
 - Cloud server backups.
 - Joining CTF(Capture The Flag) like Overthewire & Hackthebox.
+- Setup encrypted web video conference.
 
 ## Profile
 - Github: [@maxanthonypablea](https://github.com/maxanthonypablea)
