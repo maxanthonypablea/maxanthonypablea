@@ -46,6 +46,7 @@ from scratch. Always love coding building awesome stuff!.
 - Attack mitigation from bad hackers in cloud based server
 - Found & Takendown phishing server from Russia attacking Gmail users.
 - Discovering classified company hosting malwares in germany attacking coinph users.
+- CTF Overthewire Level 24 , I forgot... :(
 
 ## What I do?
 - WebApp defense from common cyber attacks.
@@ -61,4 +62,7 @@ from scratch. Always love coding building awesome stuff!.
 - Github: [@maxanthonypablea](https://github.com/maxanthonypablea)
 - Youtube: [@SwagMeUp](https://www.youtube.com/channel/UCSbY_bCQxKMoo1u3srTvIKA)
 - Reddit: [@maxanthony](https://www.reddit.com/user/maxanthony-neltv)
-- Twitter: [@maxanthonypablea](https://twitter.com/NelTV_YTchannel)
+- Twitter: [@maxanthonypablea](https://twitter.com/MNeltv)
+- StackOverflow: [@maxanthony-pablea](https://stackoverflow.com/users/14848797/max-anthony-pablea)
+- HacktheBox: [@coderlava](https://www.hackthebox.eu/home/users/profile/310910)
+
