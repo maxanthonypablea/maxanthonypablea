@@ -65,4 +65,7 @@ from scratch. Always love coding building awesome stuff!.
 - Twitter: [@maxanthonypablea](https://twitter.com/MNeltv)
 - StackOverflow: [@maxanthony-pablea](https://stackoverflow.com/users/14848797/max-anthony-pablea)
 - HacktheBox: [@coderlava](https://www.hackthebox.eu/home/users/profile/310910)
+- Medium: [@coderlava](https://medium.com/@okeykayow101)
+- Gmail: [mailto:maxanthony.pablea](maxanthony.pablea@gmail.com)
+- Protonmail: [mailto:maxanthony.pablea](maxanthony.pablea@protonmail.com)
 
