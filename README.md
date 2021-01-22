@@ -60,6 +60,7 @@ from scratch. Always love coding building awesome stuff!.
 - Setup encrypted web video conference.
 
 ## Profile
+- Internet Nickname (Privacy) : maxanthonypablea
 - Patreon: [@maxanthonypablea](https://www.patreon.com/maxanthonypablea)
 - Github: [@maxanthonypablea](https://github.com/maxanthonypablea)
 - Youtube: [@SwagMeUp](https://www.youtube.com/channel/UCSbY_bCQxKMoo1u3srTvIKA)
